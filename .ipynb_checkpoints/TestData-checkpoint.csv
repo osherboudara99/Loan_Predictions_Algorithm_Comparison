@@ -1,4 +1,4 @@
-ID,Income,Age,Experience,Married/Single,House_Ownership,Car_Ownership,Profession,CITY,STATE,CURRENT_JOB_YRS,CURRENT_HOUSE_YRS,Risk_Flag
+ID,Income,Age,Experience,Married/Single,House_Ownership,Car_Ownership,Profession,CITY,STATE,CURRENT_JOB_YRS,CURRENT_HOUSE_YRS,risk_flag
 1,7393090,59,19,single,rented,no,Geologist,Malda,West Bengal,4,13,0
 2,1215004,25,5,single,rented,no,Firefighter,Jalna,Maharashtra,5,10,0
 3,8901342,50,12,single,rented,no,Lawyer,Thane,Maharashtra,9,14,1
