@@ -1,3 +1,3 @@
 # Loan_Predictions_XGBoost_Comparison
 
-Project that compares using different data balancing techniques. 
+Project that compares variations of XGBoost using different data balancing techniques. 
